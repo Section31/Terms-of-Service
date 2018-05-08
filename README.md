@@ -122,7 +122,7 @@ Furthermore, the GDPR has a "plain language" requirement in regards to an explan
 
 This "plain language" explanation on our data and information policies is below and is also displayed as part of the "opt-in" mechanism as required by the GDPR.
 
-### We collect the following information
+### We collect the following information:
 <dl>
 	<dt>The sending address of the input assets</dt>
 	<dd>The wallet address that you are sending the funds from.</dd>
@@ -162,7 +162,7 @@ This "plain language" explanation on our data and information policies is below 
 	<dd>We require that all affiliates present our "opt-in" terms to the users whom access our site or services through their own operations. Our affiliates will provide the collected details we require in addition to their "opt-in" acknowledgement.</dd>
 </dl>
 
-### How we use this information
+### How we use this information:
 <dl>
 	<dt>The sending address of the input assets</dt>
 	<dd>We not only use this information as part of the translation process but we also store this information to use as part of a process designed to flag and determine translations that may be in violation of our Terms of Service.</dd>
@@ -188,7 +188,7 @@ This "plain language" explanation on our data and information policies is below 
 	<dd>This information is stored as part of a process designed to identify where the user was accessing the site from, if that affiliate is participating according to our policies, and how much traffic is coming from that particular affiliate. This information is also used as part of a process designed to flag and determine translations that may be in violation of our Terms of Service.</dd>
 </dl>
 
-### Who we grant access to this information
+### Who we grant access to this information:
 <dl>
 	<dt>LexiCorp OÜ</dt>
 	<dd>LexiCorp OÜ is a private limited company specializing in research and development. LexiCorp OÜ is not authorized to store or copy the information we collect but is instead granted access to a sandbox (isolated set of data) within our infrastructure that we control.</dd>
@@ -199,7 +199,7 @@ This "plain language" explanation on our data and information policies is below 
 	<dd>What this means is that there may be times when we have to grant access to or provide data relating to our cooperation with law enforcement, legal counsel, and other parties, as part of the legal process to protect ourselves and our users</dd>
 </dl>
 
-### Information modification and deletion
+### Information modification and deletion:
 <dl>
 	<dt>Information we collected and stored</dt>
 	<dd>Any data that we stored within our system that isn't stored in the blockchain, meaning that we have the technical means to delete or modify it can be done so at your request.</dd>
