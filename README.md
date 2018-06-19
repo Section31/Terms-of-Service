@@ -48,18 +48,20 @@ These are the basic terms throughout the agreement, and they have specific meani
 ## DESCRIPTION OF SERVICE
 [Section31 OÜ](https://www.sect31.com) is an online website and services platform that provides ledger entry translation to and from various blockchain technologies.
 
-At this time, we do not support FIAT conversions or interact with FIAT in any way, nor do we store the input assets or manage user assets on their behalf. We offer only ledger entry translation and therefore require that the user be the beneficial owner of the sending address of the input assets, the destination address, and the refund address for each transaction. Other terms and conditions apply as described in further sections of this Terms of Service.
+At this time, we do not support fiat conversions or interact with fiat in any way, nor do we store the input assets or manage user assets on their behalf. We offer only ledger entry translation and therefore require that the user be the beneficial owner of the sending address of the input assets, and the destination address for each transaction. Other terms and conditions apply as described in further sections of this Terms of Service.
 
 ## ACCEPTANCE OF OUR TERMS OF SERVICE
 Please read these Terms of Service carefully before accessing or using our website or services. By accessing or using any part of the website or services that we provide, or consenting via an "opt-in" mechanism, you agree to be bound by these Terms of Service. If you do not agree to all the Terms and Conditions of this agreement, then you may not access and are completely prohibited from using the website and all services provided by us. If these Terms of Service are considered an offer, acceptance is expressly limited to these Terms of Service.
 
 ## LAWS, RULES, AND REGULATIONS COMPLIANCE
-You agree to be bound by all applicable laws, rules, and regulations. You also agree that you are responsible for compliance with, and that you are compliant with, all applicable laws, rules, and regulations. If you are non-compliant with any applicable law, rule, or regulation, you are prohibited from using or accessing the website and services that we provide; your only recourse being to stop using the website and services provided by us. 
+You agree to be bound by all applicable laws, rules, and regulations within  your legal jurisdiction. You also agree that you are responsible for compliance with, and that you are compliant with, all applicable laws, rules, and regulations within your legal jurisdiction. 
+
+If you are non-compliant with any applicable law, rule, or regulation within your legal jurisdiction, you are prohibited from using or accessing the website and services that we provide; your only recourse being to stop using the website and services provided by us.
 
 ## MODIFICATION OF THE TERMS OF SERVICE
-We may at any time and without notice to you or third parties modify these Terms of Service. By using the website or any services that we provide, or by consenting via an "opt-in" mechanism, you agree to be bound by the then-current version of our Terms of Service. 
+We may at any time and without notice to you or third parties modify these Terms of Service. By using the website or any services that we provide, or by consenting via an ‘opt-in’ mechanism, you agree to be bound by the then-current version of our Terms of Service. 
 
-Furthermore, we reserve the right to make any changes retroactively - which may affect ledger entry translations, transactions, or other activities that you have already undertaken. It is recommended to check back often to review any possible changes to these Terms of Service.
+Furthermore, we reserve the right to make any changes to this Terms of Service retroactively - which may affect ledger entry translations, transactions, or other activities that you have already undertaken. It is recommended to check back often to review any possible changes to these Terms of Service.
 
 ## USE RESTRICTIONS
 We reserve the right to terminate your access to our website and services for any reason and in our sole and absolute discretion. Use of our website and services is void where prohibited by applicable law.
@@ -69,11 +71,11 @@ Furthermore, by accessing or using any part of the website or services we provid
 *	You are not furthering, performing, undertaking, engaging in, aiding, or abetting any unlawful activity through your relationship with us or through your use of our services or website.
 *	You are complying with and obeying all applicable laws, rules and regulations.
 *	You are not transacting in or from a high-risk jurisdiction as defined by E.U. financial or U.S. economic sanctions programs including, but not limited to, the U.S. Department of Treasury's Office of Foreign Assets Control ("OFAC") and the restrictive measures of the European Union's Common Foreign and Security Policy ("CFSP").
-*	You are not accessing our website or services to transmit, translate, or otherwise transact with digital assets that are the direct or indirect proceeds of any criminal or fraudulent activity, including terrorism or tax evasion.
+*	You are not accessing our website or services to transmit, translate, or otherwise transact with digital assets that are the direct or indirect proceeds of any criminal or fraudulent activity, including terrorism, money laundering, or tax evasion.
 *	You are not using or accessing our website or services in an abusive manner including, but not limited to, submission of translations or other data which imposes an unreasonable or unmanageably large load on our platform, whether or not it interferes with normal operations.
 *	You are using or accessing our website or services as a mechanism of software ledger entry translation between the user and us, meaning that all transactions processed by us are two-party transactions. 
 *	You are not using or accessing our website or services for the purpose of translating ledger entries with any other parties. 
-*	You are the beneficial owner of the sending address of the input assets, the destination address, and the refund address for each transaction.
+*	You are the beneficial owner of the sending address of the input assets, and the destination address for each transaction.
 
 ## FORFEITURE OF FUNDS, LOSS OF FUNDS, AND TRANSACTION DENIAL
 You recognize and accept that any funds found to be in violation of these Terms of Service may be seized and donated to a charity at our sole discretion. 
@@ -92,7 +94,8 @@ Digital assets are generally irreversible due to the immutable nature of the blo
 
 Digital assets sent to the incorrect address (e.g. BTC sent to a BCC address) will not be refunded and for all intents and purposes be considered as lost and out of reach.
 
-All transactions are generally considered final but users can request a refund and we will handle all refund requests on a case by case basis. Any decisions we make with respect to a refund is final. 
+All transactions are generally considered final. There may be certain situations where we may consider or preform a refund. In such cases, we shall make our best efforts to reverse the transaction, if possible. Any decisions we make with respect to a refund is final. 
+
 Please refer to the contact page on the [website](https://www.sect31.com) for contact information.
 
 ## THIRD-PARTY PHISHING SCAMS
@@ -108,9 +111,9 @@ We do not endorse or recommend any particular digital asset, transaction, or pur
 The digital assets available on our platform are not securities and users should not expect profits from the ledger entry translation of any digital asset. Ledger entry translation should be performed with the intent to make use of the underlying utility of the digital asset.
 
 ## PRIVACY STATEMENT
-Due to the transparent nature of the blockchain, transactions to and from our website and services are public and easily correlated. Law enforcement has full access to the blockchain information that goes in or out of our system. Therefore, utilizing our website or services to conduct illegal activity is pointless.
+Due to the transparent nature of the blockchain, transactions in or out of any blockchain system, including our own are public and easily correlated. Law enforcement has full access to the blockchain information that goes in or out of our system. Therefore, utilizing our website or services to conduct illegal activity is not recommended.
 
-By accepting our Terms, you expressly allow us to export data outside of the jurisdiction in which you reside or are located when you access our website or services or by consenting via an "opt-in" mechanism. You also expressly allow us to store the sending address of the input assets, the destination address, the refund address, your IP address, and the input and output amounts for each translation. 
+By accepting our Terms, you expressly allow us to export data outside of the jurisdiction in which you reside or are located when you access our website or services or by consenting via an "opt-in" mechanism. You also expressly allow us to store the sending address of the input assets, the destination address, your IP address, and the input and output amounts for each translation. 
 
 If you are accessing our website or services through an affiliate or third party website or service, you expressly allow us to store the website or service name and your username or user identifier that you identify yourself with on that platform as well.
 
@@ -132,8 +135,8 @@ This "plain language" explanation on our data and information policies is below 
 	<dd>The wallet address that you wish for the translated funds to be sent to.</dd>
 </dl>
 <dl>	
-	<dt>The refund address</dt>
-	<dd>This is usually the same as the sending address, but refers to the wallet address that you wish the funds to be refunded to should the ledger entry translation fail, granted that the funds are in a recoverable state.</dd>
+	<dt>The device and connection information</dt>
+	<dd>Device and connection information including device and connection thumbprints and ISP information.</dd>
 </dl>
 <dl>	
 	<dt>IP address</dt>
@@ -171,9 +174,9 @@ This "plain language" explanation on our data and information policies is below 
 	<dt>The destination address for the output assets</dt>
 	<dd>We not only use this information as part of the translation process but we also store this information to use as part of a process designed to flag and determine translations that may be in violation of our Terms of Service.</dd>
 </dl>
-<dl>	
-	<dt>The refund address</dt>
-	<dd>We not only use this information as part of the translation process but we also store this information to use as part of a process designed to flag and determine translations that may be in violation of our Terms of Service.</dd>
+<dl>
+	<dt>The device and connection information</dt>
+	<dd>This information is part of a process designed to flag and determine translations that may be in violation of our Terms of Service.</dd>
 </dl>
 <dl>	
 	<dt>IP address</dt>
@@ -190,9 +193,9 @@ This "plain language" explanation on our data and information policies is below 
 
 ### Who we grant access to this information:
 <dl>
-	<dt>LexiCorp OÜ</dt>
-	<dd>LexiCorp OÜ is a private limited company specializing in research and development. LexiCorp OÜ is not authorized to store or copy the information we collect but is instead granted access to a sandbox (isolated set of data) within our infrastructure that we control.</dd>
-	<dd>LexiCorp OÜ has been granted access to this information to further their research in cryptocurrency anti-money laundering procedures, anti-fraud, and other financial crime preventative research and development.</dd>
+	<dt>Radius Data Systems, LLC</dt>
+	<dd>Radius Data Systems, LLC is a private limited company specializing in intelligent products and data services.</dd>
+	<dd>Radius Data Systems, LLC has been granted access to this information as required by their software and data services which include cryptocurrency anti-money laundering analysis, anti-fraud, and other financial crime preventative services.</dd>
 </dl>
 <dl>
 	<dt>Law enforcement personnel, external legal counsel, third parties whom participate in investigations, respond to legal processes, and respond to the order of a court of competent jurisdiction and those exercising the court's authority</dt>
@@ -211,7 +214,7 @@ This "plain language" explanation on our data and information policies is below 
 	<dd>Due to the public and un-editable nature of the blockchain, it is impossible to delete or remove the transactions created by the translation process. However, these entries are unidentifiable as the wallet and transaction ids do not identify an individual on their own. Once you execute a translation, there is no way to remove it from the public ledger.</dd>
 </dl>
 
-## FINANCIAL RISK, LIABILITY, AND WARRENTY
+## FINANCIAL RISK, LIABILITY, AND WARRANTY
 Use of our website and services may carry financial risk, and is to be used as an experimental software utility only. In no event shall we be liable or responsible for any damages, claims, applications, losses, injuries, delays, accidents, costs, business interruption costs, or other expenses (including, without limitation, attorneys' fees or the costs of any claim or suit), nor for any incidental, direct, indirect, general, special, punitive, exemplary, or consequential damages, loss of goodwill or business profits, loss of cryptocurrency or digital assets, work stoppage, data loss, computer failure or malfunction, or any other commercial or other losses directly or indirectly arising out of or related to: our Terms; the Privacy Statement; any service of ours; the use of our website; any use of your digital assets or cryptocurrency on our website, services, or affiliates by any other party not authorized by you (collectively, all of the foregoing items shall be referred to herein as "Losses"). 
 
 We are hereby released by you from liability for any and all Losses. We disclaim any and all warranties or guarantees, including any warranty of merchantability and warranty of fitness for any particular purpose. The foregoing limitations of liability shall apply whether the alleged liability or Losses are based on contract, negligence, tort, strict liability, or any other basis, even if we have been advised of or should have known of the possibility of such losses and damages, and without regard to the success or effectiveness of other remedies. 
